@@ -12,7 +12,7 @@ Este projeto foi inicializado com [Create React App](https://github.com/facebook
 
 No diretório do projeto, você pode executar:
 
-### `início do fio`
+### `início`
 
 Executa o aplicativo no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
@@ -20,12 +20,12 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 A página será recarregada se você fizer edições.\
 Você também verá quaisquer erros de lint no console.
 
-### `teste de fio`
+### `teste`
 
 Inicia o executor de teste no modo de observação interativo.\
 Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
 
-### `construção de fios`
+### `construção`
 
 Cria o aplicativo para produção na pasta `build`.\
 Ele empacota corretamente o React no modo de produção e otimiza a compilação para obter o melhor desempenho.
